@@ -4,3 +4,5 @@ SimpliLearn
 London Training Academy
 Linux Academy
 StayAhead Training
+Digital Cloud Master Program
+Koenig Solutions
